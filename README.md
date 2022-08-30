@@ -1,5 +1,5 @@
 # LaoyiTools
-A tool that connects to my own api, and can download the pictures from that (Made for our interest group)(Just a practice of MFC)
+A tool that connects to my own api, and can download the pictures from that (Made for our chatgroup)(Just a practice of MFC)
 
 ## VER 1.0 -- Just like the following image shows.
 
